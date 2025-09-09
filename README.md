@@ -1,5 +1,5 @@
 # Online Shopping Demo Website
-This repository contains test cases and bug reports for an online shopping web site.
+This repository contains test cases and bug reports for an online shopping website. It includes scenarios for adding products to the cart, payment processing, and validation of product details.
 ## Features
 - Add products to cart
 - View product details and prices
